@@ -1,0 +1,15 @@
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.ReportBill.resources
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\RdlCompile.cache
+D:\Học kì 5\.NET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\RdlCompile.compiled
